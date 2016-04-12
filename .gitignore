@@ -1,0 +1,17 @@
+# extjs
+rchitect
+bootstrap.json
+build/
+ext/
+
+## python
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# virtual env
+venv/
+
+
